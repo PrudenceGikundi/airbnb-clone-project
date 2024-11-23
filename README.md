@@ -66,4 +66,4 @@ Defining design properties early in the process ensures visual consistency acros
 3. **Footer**  
    - Contains links to additional resources, contact details, and social media integrations.
 
---
+---
