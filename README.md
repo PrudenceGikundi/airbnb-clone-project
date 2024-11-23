@@ -1,29 +1,28 @@
-# airbnb-clone-project
+airbnb-clone-project
 ## UI/UX Design Planning
 
 ### Design Goals
-- Provide an intuitive and seamless booking experience.
-- Ensure responsive design for compatibility with mobile, tablet, and desktop devices.
-- Minimize user clicks to improve navigation and interaction flow.
+- Intuitive and smooth booking experience
+- Responsiveness- compatibility with both mobile, tablet, and desktop
+- Minimize user clicks for easy navigation and interaction flow
 
 ### Key Features
-- Interactive property listing with filters for location, price, and amenities.
-- Detailed property views with high-quality images and reviews.
-- Simple checkout with secure payment integration.
+- Interactive listing of property with filters like location, price, and amenities.
+- Detailed property view with high-quality images with reviews.
+- Easy checkout with secure payment integration.
 
 ### Primary Pages
 
 | **Page Name**         | **Description**                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------|
-| **Property Listing View** | Displays a searchable and filterable list of available properties with thumbnails and pricing.      |
-| **Listing Detailed View** | Provides in-depth details of a selected property, including images, reviews, amenities, and a booking button. |
-| **Simple Checkout View**  | A streamlined interface for confirming bookings, entering payment details, and viewing the total cost. |
+| **Property Listing View** | A searchable, filterable listing of available properties along with thumbnails and pricing.      |
+| **Listing Detailed View** | Detailed view of a selected property, including images, reviews, amenities, and a booking button. |
+| **Simple Checkout View**  | A simple interface to confirm bookings, enter payment details, and display the total cost. |
 
-### Importance of User-Friendly Design
-A user-friendly design ensures the booking system is easy to navigate, reducing frustration and increasing user engagement. It promotes customer satisfaction, trust, and retention, essential for the platform's success.
+### Ease in Design
+A user-friendly design makes it easier to manage the booking system, reduces frustration, and increases user engagement. Customer satisfaction, trust, and retention are crucial to the success of the platform.
 
 ---
-
 ## Design Properties in Figma
 
 ### Color Styles
@@ -36,34 +35,33 @@ A user-friendly design ensures the booking system is easy to navigate, reducing 
 - **Font Weight**: Regular (400), Medium (500), Bold (700)
 - **Font Sizes**: 12px, 16px, 20px, 24px, 32px
 
-### Importance of Identifying Design Properties
-Defining design properties early in the process ensures visual consistency across the project. It enables the development team to create a cohesive user interface and improves collaboration between designers and developers.
+Design Properties: Why It Pays to Identify Them
+While defining design properties in the early stages of a process ensure visual consistency across a project. The development team is able to provide a cohesive user interface as a result. Also, collaboration between designers and developers improves.
 
 ---
-
-## Project Roles and Responsibilities
+ 
+Project Roles and Responsibilities
 
 | **Role**                | **Key Responsibilities**                                                                                     |
 |--------------------------|-------------------------------------------------------------------------------------------------------------|
-| **Project Manager**      | Oversees the project, ensures timelines are met, coordinates between teams, and resolves roadblocks.        |
-| **Frontend Developers**  | Develop the user interface, implement designs into functional pages, and ensure responsiveness.             |
+| **Project Manager**      | Oversees the project, makes sure timelines are met, coordinates between teams, resolves roadblocks.        |
+| **Frontend Developers**  | Develop the user interface, implement designs into functional pages, ensure responsiveness.             |
 | **Backend Developers**   | Build server-side logic, manage databases, and integrate APIs for frontend-backend communication.           |
-| **Designers**            | Create mockups, wireframes, and prototypes; define visual styles and user flows.                           |
-| **QA/Testers**           | Perform testing to identify and fix bugs, ensure quality standards, and verify feature functionality.       |
+| **Designers**            | Create mock-ups, wireframes and prototypes; define visual style and user flow.                           |
+| **QA/Testers**           | Perform testing to identify and fix bugs, quality standards, and feature functionality.        |
 | **DevOps Engineers**     | Manage deployment pipelines, server configurations, and monitor application performance.                    |
 | **Product Owner**        | Define project requirements, prioritize tasks, and act as the liaison between stakeholders and the team.    |
 | **Scrum Master**         | Facilitate Agile practices, lead daily standups, and remove impediments to team progress.                   |
 
 ---
-
 ## UI Component Patterns
 
 ### Planned Components
 1. **Navbar**  
    - Includes the logo, navigation links, and search bar for easy site navigation.
-2. **Property Card**  
-   - Displays property thumbnails, price, and quick booking details on the Property Listing View.
-3. **Footer**  
-   - Contains links to additional resources, contact details, and social media integrations.
+2. **Property Card** 
+   - Shows property thumbnails, price, and quick booking details on Property Listing View.
+3. **Footer** 
+   - Houses links to resources, contact information, and social network integrations.
 
 ---
